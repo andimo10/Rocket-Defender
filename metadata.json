@@ -1,0 +1,5 @@
+{
+  "name": "Rocket Defender",
+  "description": "A portrait-mode arcade shooter where you defend the ground from invading dual-layered alien spacecraft.",
+  "requestFramePermissions": []
+}
